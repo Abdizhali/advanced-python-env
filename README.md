@@ -25,7 +25,7 @@ Each assignment has its own folder with scripts, notes, and resources.
 
 | Assignment / Lab | Status | Link |
 |-----------------|--------|------|
-| 📝 Week 1 | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | [Go](Assignment1/) |
+| 📝 Week 1 | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | [Go](Week-1/) |
 | 📝 Week 2 | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) | [Go](Assignment2/) |
 
 > Click the "Go" link to jump directly into the assignment folder.
