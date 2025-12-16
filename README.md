@@ -9,7 +9,7 @@
 ## 🎬 Demo
 Quick demo of Python assignments running:
 
-![Python Demo GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Python Demo GIF](https://media.geeksforgeeks.org/wp-content/uploads/20211031204939/InShot20211031203849481.gif)
 
 ---
 
