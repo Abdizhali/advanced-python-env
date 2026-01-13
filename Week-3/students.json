@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Aset",
+    "course": 2,
+    "grades": [90, 85, 88]
+  },
+  {
+    "name": "Madi",
+    "course": 2,
+    "grades": [75, 80, 78]
+  }
+]
